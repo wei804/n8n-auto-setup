@@ -1,0 +1,12 @@
+{
+"name": "n8n-auto",
+"version": "1.0.0",
+"scripts": {
+"start": "n8n"
+},
+"dependencies": {
+"n8n": "^1.46.0"
+}
+}
+
+add package.json for n8n deployment
